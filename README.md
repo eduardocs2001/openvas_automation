@@ -6,6 +6,7 @@ This project provides an automated pipeline for Vulnerability Analysis using Ope
 
 - **[Installation Guide](docs/installation.md)**: Instructions on how to set up the environment, configure OpenVAS, and start the services.
 - **[API & Script Reference](docs/api_reference.md)**: Detailed usage of the automation script and API explanations.
+- **[Test Report](docs/test_report.md)**: Details on testing strategy and verification steps.
 
 ## Quick Start
 

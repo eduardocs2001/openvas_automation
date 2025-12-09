@@ -82,7 +82,7 @@ def get_report(gmp, report_id):
     if not json_format_id:
         print("JSON report format not found. Falling back to XML.")
         response = gmp.get_report(report_id)
-        return pretty_print(response)
+        return response
 
     # If JSON format exists, request the report in that format.
     response = gmp.get_report(report_id, report_format_id=json_format_id)

@@ -1,0 +1,3 @@
+python-gvm
+gvm-tools
+requests
